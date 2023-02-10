@@ -1,4 +1,4 @@
-# aframe-super-shooter-kit
+# mbogi-nare game 
 
 [A-Frame](https://aframe.io) kit of components for making a simple WebVR
 shooter minigame. From the creators of A-Frame, Supermedium, and Supercraft.
